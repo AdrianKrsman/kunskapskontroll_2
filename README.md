@@ -1,5 +1,5 @@
 # Current_tennis_rankings
-A python proejct that gets the current top 20 tennis players, both male and femalre (ATP & WTA). The script collects the data, performs a simple data cleaning of the data and ensures the data is in the same format every time,
+A python proejct that gets the current top 20 tennis players, both male and female (ATP & WTA). The script collects the data, performs a simple cleaning of the data and ensures the data is in the same format every time,
 and finally it appends it to two different sqlite tables (one for ATP and one for WTA). 
 
 ## needed packages
